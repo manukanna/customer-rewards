@@ -33,7 +33,7 @@
 - CustomerSearch → Search functionality
 - CustomerInfoModal → Detailed customer view
 - CustomerTransactiontable → Detaied view Transactions in a month
-- customersFetch → Fetching Customers CustoHook
+- customersFetchService → Fetching Customers CustoHook
 - customerRewardsTests
   - custmeTransactionSummary
   - customerCard
@@ -53,35 +53,30 @@
 
 <img width="1428" height="818" alt="image" src="https://github.com/user-attachments/assets/23128a43-9fd0-4cd0-a54e-917d71d691bf" />
 
+<img width="1428" height="818" alt="Screenshot 2026-04-10 at 9 40 02 PM" src="https://github.com/user-attachments/assets/fd8fe657-fa3c-48d5-a10f-fc6cdf38e400" />
+
+
+<img width="1431" height="812" alt="Screenshot 2026-04-10 at 9 42 14 PM" src="https://github.com/user-attachments/assets/ed902ab0-1f3e-446c-8290-b435b22b4dfb" />
+
+
+<img width="1435" height="825" alt="Screenshot 2026-04-10 at 9 42 25 PM" src="https://github.com/user-attachments/assets/1e9bf8e6-951e-43a0-86e6-2190f7fa3986" />
+
+
+<img width="1436" height="815" alt="Screenshot 2026-04-10 at 9 42 39 PM" src="https://github.com/user-attachments/assets/08b4f642-3824-418b-a912-1ac72213d2c0" />
+
+
+<img width="1436" height="822" alt="Screenshot 2026-04-10 at 9 42 48 PM" src="https://github.com/user-attachments/assets/5d1e15f8-f848-430e-8158-fc82325020ac" />
+
+
+<img width="1434" height="817" alt="Screenshot 2026-04-10 at 9 43 14 PM" src="https://github.com/user-attachments/assets/dd808e2f-fa9b-4072-9c42-a9fd2076aa53" />
+
+<img width="1435" height="825" alt="Screenshot 2026-04-10 at 9 43 22 PM" src="https://github.com/user-attachments/assets/33a132c5-14b4-4625-b91f-226b7e940a8b" />
 
 
 
 
-<img width="1429" height="825" alt="Screenshot 2026-04-09 at 11 11 58 PM" src="https://github.com/user-attachments/assets/c97fb092-2666-4222-aa03-729ef2a74df0" />
+https://github.com/user-attachments/assets/0a1b3261-2ef1-4887-874c-bc9b28b3917a
 
-<img width="1435" height="823" alt="Screenshot 2026-04-09 at 11 12 25 PM" src="https://github.com/user-attachments/assets/60c25627-f9c0-461b-912a-cae8cae73e9f" />
-
-<img width="1427" height="828" alt="Screenshot 2026-04-09 at 11 12 46 PM" src="https://github.com/user-attachments/assets/8a677dd0-8047-41f3-be54-1fec3edfcc21" />
-
-<img width="1434" height="818" alt="Screenshot 2026-04-09 at 11 12 58 PM" src="https://github.com/user-attachments/assets/bfcd13ec-24bc-446f-841c-2fd117274d9e" />
-
-<img width="1428" height="817" alt="Screenshot 2026-04-09 at 11 13 07 PM" src="https://github.com/user-attachments/assets/6a3f8aeb-87f5-4cd7-9924-77de144489cf" />
-
-<img width="1434" height="817" alt="Screenshot 2026-04-09 at 11 13 15 PM" src="https://github.com/user-attachments/assets/290f47fe-6f0f-4ab0-825e-ed5aaf6c0be0" />
-
-<img width="1432" height="820" alt="image" src="https://github.com/user-attachments/assets/36db5cc6-971a-4e42-a0e7-a692f96c0658" />
-
-<img width="1425" height="830" alt="image" src="https://github.com/user-attachments/assets/aa764932-974e-46cf-8bf4-b0f172ea19f3" />
-
-
-<img width="784" height="369" alt="Screenshot 2026-04-09 at 11 25 16 PM" src="https://github.com/user-attachments/assets/9e90e11a-5bf8-4967-8803-95eb51988a0d" />
-
-https://github.com/user-attachments/assets/811b6a47-cd4d-493d-900a-598f7388a413
-
-
-
-
- 
 
 
 
