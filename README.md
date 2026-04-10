@@ -51,7 +51,6 @@
 # project screen shots
 
 
-<img width="1428" height="818" alt="image" src="https://github.com/user-attachments/assets/23128a43-9fd0-4cd0-a54e-917d71d691bf" />
 
 <img width="1428" height="818" alt="Screenshot 2026-04-10 at 9 40 02 PM" src="https://github.com/user-attachments/assets/fd8fe657-fa3c-48d5-a10f-fc6cdf38e400" />
 
