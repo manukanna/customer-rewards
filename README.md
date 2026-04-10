@@ -50,6 +50,13 @@
 
 # project screen shots
 
+
+<img width="1428" height="818" alt="image" src="https://github.com/user-attachments/assets/23128a43-9fd0-4cd0-a54e-917d71d691bf" />
+
+
+
+
+
 <img width="1429" height="825" alt="Screenshot 2026-04-09 at 11 11 58 PM" src="https://github.com/user-attachments/assets/c97fb092-2666-4222-aa03-729ef2a74df0" />
 
 <img width="1435" height="823" alt="Screenshot 2026-04-09 at 11 12 25 PM" src="https://github.com/user-attachments/assets/60c25627-f9c0-461b-912a-cae8cae73e9f" />
