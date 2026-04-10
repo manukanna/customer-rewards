@@ -27,7 +27,7 @@ export const fetchCustomers = async () => {
 // custom hook that gets customer data. It also handles loading and error states, and returns the customers along with these values.
 export const useCustomersFetch = () => {
   const [customers, setCustomers] = useState([]);
-  const [loading, setLoading] = useState(true);
+  const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
 
   useEffect(() => {
