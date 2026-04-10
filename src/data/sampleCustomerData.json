@@ -1,0 +1,632 @@
+{
+  "customersValues": [
+    {
+      "customerId": "C001",
+      "name": "Manohar",
+      "email": "manohar.c001@example.com",
+      "transactions": {
+        "January": [
+          { "id": "T1", "date": "2025-01-05", "amount": 120 },
+          { "id": "T1A", "date": "2025-01-10", "amount": 60 },
+          { "id": "T1B", "date": "2025-01-20", "amount": 95 },
+          { "id": "T1C", "date": "2025-01-28", "amount": 140 }
+        ],
+        "February": [
+          { "id": "T2", "date": "2025-02-05", "amount": 80 },
+          { "id": "T2A", "date": "2025-02-14", "amount": 140 },
+          { "id": "T2B", "date": "2025-02-20", "amount": 70 },
+          { "id": "T2C", "date": "2025-02-26", "amount": 110 }
+        ],
+        "March": [
+          { "id": "T3", "date": "2025-03-05", "amount": 200 },
+          { "id": "T3A", "date": "2025-03-12", "amount": 90 },
+          { "id": "T3B", "date": "2025-03-18", "amount": 60 },
+          { "id": "T3C", "date": "2025-03-25", "amount": 150 }
+        ]
+      }
+    },
+    {
+      "customerId": "C002",
+      "name": "Rahul",
+      "email": "rahul.c002@example.com",
+      "transactions": {
+        "January": [
+          { "id": "T4", "date": "2025-01-05", "amount": 60 },
+          { "id": "T4A", "date": "2025-01-12", "amount": 110 },
+          { "id": "T4B", "date": "2025-01-22", "amount": 85 },
+          { "id": "T4C", "date": "2025-01-28", "amount": 140 }
+        ],
+        "February": [
+          { "id": "T5", "date": "2025-02-08", "amount": 150 },
+          { "id": "T5A", "date": "2025-02-14", "amount": 70 },
+          { "id": "T5B", "date": "2025-02-20", "amount": 95 },
+          { "id": "T5C", "date": "2025-02-25", "amount": 120 }
+        ],
+        "March": [
+          { "id": "T6", "date": "2025-03-05", "amount": 90 },
+          { "id": "T6A", "date": "2025-03-12", "amount": 130 },
+          { "id": "T6B", "date": "2025-03-20", "amount": 60 },
+          { "id": "T6C", "date": "2025-03-29", "amount": 150 }
+        ]
+      }
+    },
+    {
+      "customerId": "C003",
+      "name": "Anjali",
+      "email": "anjali.c003@example.com",
+      "transactions": {
+        "January": [
+          { "id": "T7", "date": "2025-01-05", "amount": 30 },
+          { "id": "T7A", "date": "2025-01-10", "amount": 95 },
+          { "id": "T7B", "date": "2025-01-19", "amount": 60 },
+          { "id": "T7C", "date": "2025-01-27", "amount": 110 }
+        ],
+        "February": [
+          { "id": "T8", "date": "2025-02-05", "amount": 75 },
+          { "id": "T8A", "date": "2025-02-11", "amount": 120 },
+          { "id": "T8B", "date": "2025-02-18", "amount": 85 },
+          { "id": "T8C", "date": "2025-02-25", "amount": 95 }
+        ],
+        "March": [
+          { "id": "T9", "date": "2025-03-05", "amount": 130 },
+          { "id": "T9A", "date": "2025-03-12", "amount": 60 },
+          { "id": "T9B", "date": "2025-03-19", "amount": 90 },
+          { "id": "T9C", "date": "2025-03-27", "amount": 150 }
+        ]
+      }
+    },
+    {
+      "customerId": "C004",
+      "name": "Priya",
+      "email": "priya.c004@example.com",
+      "transactions": {
+        "January": [
+          { "id": "T10", "date": "2025-01-05", "amount": 95 },
+          { "id": "T10A", "date": "2025-01-15", "amount": 40 },
+          { "id": "T10B", "date": "2025-01-20", "amount": 75 },
+          { "id": "T10C", "date": "2025-01-28", "amount": 120 }
+        ],
+        "February": [
+          { "id": "T11", "date": "2025-02-05", "amount": 40 },
+          { "id": "T11A", "date": "2025-02-12", "amount": 105 },
+          { "id": "T11B", "date": "2025-02-20", "amount": 60 },
+          { "id": "T11C", "date": "2025-02-26", "amount": 95 }
+        ],
+        "March": [
+          { "id": "T12", "date": "2025-03-05", "amount": 170 },
+          { "id": "T12A", "date": "2025-03-12", "amount": 85 },
+          { "id": "T12B", "date": "2025-03-18", "amount": 60 },
+          { "id": "T12C", "date": "2025-03-22", "amount": 140 }
+        ]
+      }
+    },
+    {
+      "customerId": "C016",
+      "name": "Kavya",
+      "email": "kavya.c016@example.com",
+      "transactions": {
+        "January": [
+          { "id": "T46", "date": "2025-01-30", "amount": 200 },
+          { "id": "T46A", "date": "2025-01-31", "amount": 90 }
+        ],
+        "February": [
+          { "id": "T47", "date": "2025-02-27", "amount": 80 },
+          { "id": "T47A", "date": "2025-02-20", "amount": 140 }
+        ],
+        "March": [
+          { "id": "T48", "date": "2025-03-11", "amount": 60 },
+          { "id": "T48A", "date": "2025-03-21", "amount": 120 }
+        ]
+      }
+    },
+    {
+      "customerId": "C017",
+      "name": "Vishal",
+      "email": "vishal.c017@example.com",
+      "transactions": {
+        "January": [
+          { "id": "T49", "date": "2025-01-02", "amount": 55 },
+          { "id": "T49A", "date": "2025-01-18", "amount": 130 }
+        ],
+        "February": [
+          { "id": "T50", "date": "2025-02-12", "amount": 90 },
+          { "id": "T50A", "date": "2025-02-26", "amount": 60 }
+        ],
+        "March": [
+          { "id": "T51", "date": "2025-03-15", "amount": 120 },
+          { "id": "T51A", "date": "2025-03-25", "amount": 85 }
+        ]
+      }
+    },
+    {
+      "customerId": "C018",
+      "name": "Sana",
+      "email": "sana.c018@example.com",
+      "transactions": {
+        "January": [
+          { "id": "T52", "date": "2025-01-07", "amount": 80 },
+          { "id": "T52A", "date": "2025-01-17", "amount": 60 }
+        ],
+        "February": [
+          { "id": "T53", "date": "2025-02-10", "amount": 60 },
+          { "id": "T53A", "date": "2025-02-22", "amount": 140 }
+        ],
+        "March": [
+          { "id": "T54", "date": "2025-03-18", "amount": 140 },
+          { "id": "T54A", "date": "2025-03-28", "amount": 75 }
+        ]
+      }
+    },
+    {
+      "customerId": "C019",
+      "name": "Nitin",
+      "email": "nitin.c019@example.com",
+      "transactions": {
+        "January": [
+          { "id": "T55", "date": "2025-01-16", "amount": 130 },
+          { "id": "T55A", "date": "2025-01-26", "amount": 90 }
+        ],
+        "February": [
+          { "id": "T56", "date": "2025-02-21", "amount": 70 },
+          { "id": "T56A", "date": "2025-02-27", "amount": 120 }
+        ],
+        "March": [
+          { "id": "T57", "date": "2025-03-23", "amount": 60 },
+          { "id": "T57A", "date": "2025-03-30", "amount": 100 }
+        ]
+      }
+    },
+    {
+      "customerId": "C020",
+      "name": "Richa",
+      "email": "richa.c020@example.com",
+      "transactions": {
+        "January": [
+          { "id": "T58", "date": "2025-01-04", "amount": 90 },
+          { "id": "T58A", "date": "2025-01-20", "amount": 150 }
+        ],
+        "February": [
+          { "id": "T59", "date": "2025-02-15", "amount": 150 },
+          { "id": "T59A", "date": "2025-02-25", "amount": 80 }
+        ],
+        "March": [
+          { "id": "T60", "date": "2025-03-27", "amount": 100 },
+          { "id": "T60A", "date": "2025-03-29", "amount": 60 }
+        ]
+      }
+    },
+    {
+      "customerId": "C021",
+      "name": "Manish",
+      "email": "manish.c021@example.com",
+      "transactions": {
+        "January": [
+          { "id": "T61", "date": "2025-01-20", "amount": 110 },
+          { "id": "T61A", "date": "2025-01-28", "amount": 70 }
+        ],
+        "February": [
+          { "id": "T62", "date": "2025-02-24", "amount": 85 },
+          { "id": "T62A", "date": "2025-02-26", "amount": 130 }
+        ],
+        "March": [
+          { "id": "T63", "date": "2025-03-13", "amount": 95 },
+          { "id": "T63A", "date": "2025-03-23", "amount": 60 }
+        ]
+      }
+    },
+    {
+      "customerId": "C022",
+      "name": "Shreya",
+      "email": "shreya.c022@example.com",
+      "transactions": {
+        "January": [
+          { "id": "T64", "date": "2025-01-13", "amount": 75 },
+          { "id": "T64A", "date": "2025-01-23", "amount": 120 }
+        ],
+        "February": [
+          { "id": "T65", "date": "2025-02-06", "amount": 120 },
+          { "id": "T65A", "date": "2025-02-18", "amount": 85 }
+        ],
+        "March": [
+          { "id": "T66", "date": "2025-03-16", "amount": 130 },
+          { "id": "T66A", "date": "2025-03-26", "amount": 90 }
+        ]
+      }
+    },
+    {
+      "customerId": "C023",
+      "name": "Akash",
+      "email": "akash.c023@example.com",
+      "transactions": {
+        "January": [
+          { "id": "T67", "date": "2025-01-28", "amount": 140 },
+          { "id": "T67A", "date": "2025-01-30", "amount": 80 }
+        ],
+        "February": [
+          { "id": "T68", "date": "2025-02-11", "amount": 60 },
+          { "id": "T68A", "date": "2025-02-21", "amount": 110 }
+        ],
+        "March": [
+          { "id": "T69", "date": "2025-03-07", "amount": 50 },
+          { "id": "T69A", "date": "2025-03-17", "amount": 120 }
+        ]
+      }
+    },
+    {
+      "customerId": "C024",
+      "name": "Isha",
+      "email": "isha.c024@example.com",
+      "transactions": {
+        "January": [
+          { "id": "T70", "date": "2025-01-09", "amount": 90 },
+          { "id": "T70A", "date": "2025-01-19", "amount": 100 }
+        ],
+        "February": [
+          { "id": "T71", "date": "2025-02-19", "amount": 100 },
+          { "id": "T71A", "date": "2025-02-28", "amount": 140 }
+        ],
+        "March": [
+          { "id": "T72", "date": "2025-03-22", "amount": 110 },
+          { "id": "T72A", "date": "2025-03-30", "amount": 80 }
+        ]
+      }
+    },
+    {
+      "customerId": "C025",
+      "name": "Kunal",
+      "email": "kunal.c025@example.com",
+      "transactions": {
+        "January": [
+          { "id": "T73", "date": "2025-01-05", "amount": 120 },
+          { "id": "T73A", "date": "2025-01-15", "amount": 60 },
+          { "id": "T73B", "date": "2025-01-25", "amount": 95 }
+        ],
+        "February": [
+          { "id": "T74", "date": "2025-02-14", "amount": 75 },
+          { "id": "T74A", "date": "2025-02-24", "amount": 110 },
+          { "id": "T74B", "date": "2025-02-28", "amount": 85 }
+        ],
+        "March": [
+          { "id": "T75", "date": "2025-03-10", "amount": 130 },
+          { "id": "T75A", "date": "2025-03-20", "amount": 90 },
+          { "id": "T75B", "date": "2025-03-31", "amount": 70 }
+        ]
+      }
+    },
+    {
+      "customerId": "C026",
+      "name": "Anita",
+      "email": "anita.c026@example.com",
+      "transactions": {
+        "January": [
+          { "id": "T231", "date": "2025-01-10", "amount": 60 },
+          { "id": "T232", "date": "2025-01-17", "amount": 95 },
+          { "id": "T233", "date": "2025-01-30", "amount": 80 }
+        ],
+        "February": [
+          { "id": "T234", "date": "2025-02-08", "amount": 85 },
+          { "id": "T235", "date": "2025-02-18", "amount": 70 },
+          { "id": "T236", "date": "2025-02-23", "amount": 100 }
+        ],
+        "March": [
+          { "id": "T237", "date": "2025-03-05", "amount": 140 },
+          { "id": "T238", "date": "2025-03-15", "amount": 90 },
+          { "id": "T239", "date": "2025-03-25", "amount": 75 }
+        ]
+      }
+    },
+    {
+      "customerId": "C027",
+      "name": "Raj",
+      "email": "raj.c027@example.com",
+      "transactions": {
+        "January": [
+          { "id": "T240", "date": "2025-01-05", "amount": 95 },
+          { "id": "T241", "date": "2025-01-11", "amount": 80 },
+          { "id": "T242", "date": "2025-01-21", "amount": 60 }
+        ],
+        "February": [
+          { "id": "T243", "date": "2025-02-07", "amount": 120 },
+          { "id": "T244", "date": "2025-02-14", "amount": 65 },
+          { "id": "T245", "date": "2025-02-25", "amount": 90 }
+        ],
+        "March": [
+          { "id": "T246", "date": "2025-03-09", "amount": 110 },
+          { "id": "T247", "date": "2025-03-19", "amount": 75 },
+          { "id": "T248", "date": "2025-03-27", "amount": 85 }
+        ]
+      }
+    },
+    {
+      "customerId": "C028",
+      "name": "Tanya",
+      "email": "tanya.c028@example.com",
+      "transactions": {
+        "January": [
+          { "id": "T249", "date": "2025-01-01", "amount": 50 },
+          { "id": "T250", "date": "2025-01-10", "amount": 70 },
+          { "id": "T251", "date": "2025-01-19", "amount": 65 }
+        ],
+        "February": [
+          { "id": "T252", "date": "2025-02-10", "amount": 90 },
+          { "id": "T253", "date": "2025-02-18", "amount": 60 },
+          { "id": "T254", "date": "2025-02-28", "amount": 75 }
+        ],
+        "March": [
+          { "id": "T255", "date": "2025-03-09", "amount": 70 },
+          { "id": "T256", "date": "2025-03-19", "amount": 85 },
+          { "id": "T257", "date": "2025-03-30", "amount": 95 }
+        ]
+      }
+    },
+    {
+      "customerId": "C029",
+      "name": "Rohit",
+      "email": "rohit.c029@example.com",
+      "transactions": {
+        "January": [
+          { "id": "T258", "date": "2025-01-03", "amount": 140 },
+          { "id": "T259", "date": "2025-01-15", "amount": 100 },
+          { "id": "T260", "date": "2025-01-25", "amount": 85 }
+        ],
+        "February": [
+          { "id": "T261", "date": "2025-02-10", "amount": 80 },
+          { "id": "T262", "date": "2025-02-18", "amount": 95 },
+          { "id": "T263", "date": "2025-02-27", "amount": 110 }
+        ],
+        "March": [
+          { "id": "T264", "date": "2025-03-12", "amount": 60 },
+          { "id": "T265", "date": "2025-03-22", "amount": 120 },
+          { "id": "T266", "date": "2025-03-30", "amount": 90 }
+        ]
+      }
+    },
+    {
+      "customerId": "C036",
+      "name": "Neetu",
+      "email": "neetu.c036@example.com",
+      "transactions": {
+        "January": [
+          { "id": "T291", "date": "2025-01-06", "amount": 80 },
+          { "id": "T292", "date": "2025-01-20", "amount": 105 }
+        ],
+        "February": [
+          { "id": "T293", "date": "2025-02-11", "amount": 130 },
+          { "id": "T294", "date": "2025-02-21", "amount": 95 }
+        ],
+        "March": [
+          { "id": "T295", "date": "2025-03-16", "amount": 120 },
+          { "id": "T296", "date": "2025-03-25", "amount": 85 }
+        ]
+      }
+    },
+    {
+      "customerId": "C037",
+      "name": "Sanjay",
+      "email": "sanjay.c037@example.com",
+      "transactions": {
+        "January": [
+          { "id": "T297", "date": "2025-01-19", "amount": 60 },
+          { "id": "T298", "date": "2025-01-30", "amount": 75 }
+        ],
+        "February": [
+          { "id": "T299", "date": "2025-02-12", "amount": 90 },
+          { "id": "T300", "date": "2025-02-24", "amount": 55 }
+        ],
+        "March": [
+          { "id": "T301", "date": "2025-03-10", "amount": 50 },
+          { "id": "T302", "date": "2025-03-23", "amount": 80 }
+        ]
+      }
+    },
+    {
+      "customerId": "C038",
+      "name": "Maya",
+      "email": "maya.c038@example.com",
+      "transactions": {
+        "January": [
+          { "id": "T303", "date": "2025-01-04", "amount": 130 },
+          { "id": "T304", "date": "2025-01-22", "amount": 90 }
+        ],
+        "February": [
+          { "id": "T305", "date": "2025-02-18", "amount": 70 },
+          { "id": "T306", "date": "2025-02-27", "amount": 85 }
+        ],
+        "March": [
+          { "id": "T307", "date": "2025-03-12", "amount": 85 },
+          { "id": "T308", "date": "2025-03-29", "amount": 110 }
+        ]
+      }
+    },
+    {
+      "customerId": "C039",
+      "name": "Abhay",
+      "email": "abhay.c039@example.com",
+      "transactions": {
+        "January": [
+          { "id": "T309", "date": "2025-01-14", "amount": 95 },
+          { "id": "T310", "date": "2025-01-26", "amount": 60 }
+        ],
+        "February": [
+          { "id": "T311", "date": "2025-02-09", "amount": 60 },
+          { "id": "T312", "date": "2025-02-20", "amount": 75 }
+        ],
+        "March": [
+          { "id": "T313", "date": "2025-03-20", "amount": 100 },
+          { "id": "T314", "date": "2025-03-30", "amount": 120 }
+        ]
+      }
+    },
+    {
+      "customerId": "C040",
+      "name": "Shruti",
+      "email": "shruti.c040@example.com",
+      "transactions": {
+        "January": [
+          { "id": "T315", "date": "2025-01-23", "amount": 150 },
+          { "id": "T316", "date": "2025-01-30", "amount": 100 }
+        ],
+        "February": [
+          { "id": "T317", "date": "2025-02-06", "amount": 80 },
+          { "id": "T318", "date": "2025-02-19", "amount": 95 }
+        ],
+        "March": [
+          { "id": "T319", "date": "2025-03-10", "amount": 90 },
+          { "id": "T320", "date": "2025-03-29", "amount": 110 }
+        ]
+      }
+    },
+    {
+      "customerId": "C041",
+      "name": "Tarun",
+      "email": "tarun.c041@example.com",
+      "transactions": {
+        "January": [
+          { "id": "T321", "date": "2025-01-10", "amount": 60 },
+          { "id": "T322", "date": "2025-01-25", "amount": 95 }
+        ],
+        "February": [
+          { "id": "T323", "date": "2025-02-05", "amount": 110 },
+          { "id": "T324", "date": "2025-02-19", "amount": 85 }
+        ],
+        "March": [
+          { "id": "T325", "date": "2025-03-03", "amount": 140 },
+          { "id": "T326", "date": "2025-03-17", "amount": 75 }
+        ]
+      }
+    },
+    {
+      "customerId": "C042",
+      "name": "Priti",
+      "email": "priti.c042@example.com",
+      "transactions": {
+        "January": [
+          { "id": "T327", "date": "2025-01-01", "amount": 90 },
+          { "id": "T328", "date": "2025-01-18", "amount": 70 }
+        ],
+        "February": [
+          { "id": "T329", "date": "2025-02-12", "amount": 120 },
+          { "id": "T330", "date": "2025-02-25", "amount": 95 }
+        ],
+        "March": [
+          { "id": "T331", "date": "2025-03-09", "amount": 75 },
+          { "id": "T332", "date": "2025-03-21", "amount": 110 }
+        ]
+      }
+    },
+    {
+      "customerId": "C043",
+      "name": "Rajan",
+      "email": "rajan.c043@example.com",
+      "transactions": {
+        "January": [
+          { "id": "T333", "date": "2025-01-07", "amount": 100 },
+          { "id": "T334", "date": "2025-01-22", "amount": 80 }
+        ],
+        "February": [
+          { "id": "T335", "date": "2025-02-16", "amount": 85 },
+          { "id": "T336", "date": "2025-02-28", "amount": 60 }
+        ],
+        "March": [
+          { "id": "T337", "date": "2025-03-10", "amount": 60 },
+          { "id": "T338", "date": "2025-03-25", "amount": 95 }
+        ]
+      }
+    },
+    {
+      "customerId": "C044",
+      "name": "Divya",
+      "email": "divya.c044@example.com",
+      "transactions": {
+        "January": [
+          { "id": "T339", "date": "2025-01-18", "amount": 120 },
+          { "id": "T340", "date": "2025-01-29", "amount": 90 }
+        ],
+        "February": [
+          { "id": "T341", "date": "2025-02-11", "amount": 95 },
+          { "id": "T342", "date": "2025-02-26", "amount": 80 }
+        ],
+        "March": [
+          { "id": "T343", "date": "2025-03-08", "amount": 80 },
+          { "id": "T344", "date": "2025-03-30", "amount": 120 }
+        ]
+      }
+    },
+    {
+      "customerId": "C045",
+      "name": "Harsh",
+      "email": "harsh.c045@example.com",
+      "transactions": {
+        "January": [
+          { "id": "T345", "date": "2025-01-05", "amount": 75 },
+          { "id": "T346", "date": "2025-01-20", "amount": 100 }
+        ],
+        "February": [
+          { "id": "T347", "date": "2025-02-08", "amount": 110 },
+          { "id": "T348", "date": "2025-02-22", "amount": 90 }
+        ],
+        "March": [
+          { "id": "T349", "date": "2025-03-11", "amount": 95 },
+          { "id": "T350", "date": "2025-03-24", "amount": 85 }
+        ]
+      }
+    },
+    {
+      "customerId": "C046",
+      "name": "Kriti",
+      "email": "kriti.c046@example.com",
+      "transactions": {
+        "January": [
+          { "id": "T351", "date": "2025-01-12", "amount": 85 },
+          { "id": "T352", "date": "2025-01-27", "amount": 95 }
+        ],
+        "February": [
+          { "id": "T353", "date": "2025-02-20", "amount": 130 },
+          { "id": "T354", "date": "2025-02-28", "amount": 75 }
+        ],
+        "March": [
+          { "id": "T355", "date": "2025-03-05", "amount": 60 },
+          { "id": "T356", "date": "2025-03-15", "amount": 110 }
+        ]
+      }
+    },
+    {
+      "customerId": "C047",
+      "name": "Gaurav",
+      "email": "gaurav.c047@example.com",
+      "transactions": {
+        "January": [
+          { "id": "T357", "date": "2025-01-08", "amount": 90 },
+          { "id": "T358", "date": "2025-01-26", "amount": 70 }
+        ],
+        "February": [
+          { "id": "T359", "date": "2025-02-14", "amount": 70 },
+          { "id": "T360", "date": "2025-02-25", "amount": 85 }
+        ],
+        "March": [
+          { "id": "T361", "date": "2025-03-18", "amount": 100 },
+          { "id": "T362", "date": "2025-03-28", "amount": 120 }
+        ]
+      }
+    },
+    {
+      "customerId": "C048",
+      "name": "Richa",
+      "email": "richa.c048@example.com",
+      "transactions": {
+        "January": [
+          { "id": "T363", "date": "2025-01-21", "amount": 120 },
+          { "id": "T364", "date": "2025-01-30", "amount": 85 }
+        ],
+        "February": [
+          { "id": "T365", "date": "2025-02-07", "amount": 85 },
+          { "id": "T366", "date": "2025-02-20", "amount": 95 }
+        ],
+        "March": [
+          { "id": "T367", "date": "2025-03-12", "amount": 75 },
+          { "id": "T368", "date": "2025-03-26", "amount": 110 }
+        ]
+      }
+    }
+  ]
+}
